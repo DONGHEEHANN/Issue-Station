@@ -2,6 +2,7 @@
 
 중앙대학교 2024년 1학기 소프트웨어공학 Term 프로젝트  
 2분반 11팀 이슈역 통합 Repository
+Role: BackEnd
 
 <br><br>
 
